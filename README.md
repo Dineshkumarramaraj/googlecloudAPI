@@ -1,2 +1,2 @@
 # googlecloudAPI
-To implement API for accessing Goolge resources
+To implement API for accessing Goolge Cloud resources
